@@ -1,6 +1,6 @@
 # Music Together
 
-作者：QuietPeng
+作者：长沙市果垂素宇工程设计有限公司
 
 基于 Flask + UniApp + Vue3 开发的多人实时音乐播放应用。支持跨平台部署，实现多用户同步播放音乐。
 
@@ -394,7 +394,7 @@ MIT License
 
 ## 👨‍💻 作者
 
-**QuietPeng**
+**长沙市果垂素宇工程设计有限公司**
 
 如有问题或建议，请提交 Issue 或 Pull Request。
 
